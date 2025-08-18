@@ -12,3 +12,4 @@ C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\obj\Debug\net1
 C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\obj\Debug\net10.0\PrivateInit_Factory_PatternMatching_Decons.pdb
 C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\obj\Debug\net10.0\PrivateInit_Factory_PatternMatching_Decons.genruntimeconfig.cache
 C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\obj\Debug\net10.0\ref\PrivateInit_Factory_PatternMatching_Decons.dll
+C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\obj\Debug\net10.0\PrivateInit_Factory_PatternMatching_Decons.sourcelink.json

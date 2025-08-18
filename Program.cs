@@ -13,7 +13,7 @@ public record UserProfile
         return new UserProfile { UserName = userName, Role = "User", DateOfBirth = dateOfBirth };
     }
 
-    public static UserProfile CreateAdmin(string userName,string role, DateTime? dateOfBirth = null)
+    public static UserProfile CreateAdmin(string userName, string role, DateTime? dateOfBirth = null)
     {
         return new UserProfile { UserName = userName, Role = role, DateOfBirth = dateOfBirth };
     }
@@ -24,6 +24,15 @@ public record UserProfile
         { Role: "User" } => $"Hello, {UserName}! Enjoy your stay.",
         _ => "Hello! Welcome to our platform."
     };
+
+    // Add Deconstruct method for deconstruction
+    public void Deconstruct(out string userName, out string role, out DateTime? dateOfBirth)
+    {
+        userName = UserName;
+        role = Role;
+        dateOfBirth = DateOfBirth;
+    }
+     
 
 }
 
@@ -42,14 +51,27 @@ public static class Program
              Role = "Admin"
              // DateOfBirth = DateTime.Now.ToString("d") ?? "Not provided"
          };*/
-        
-        var info=UserProfile.CreateAdmin("Volkan", "Admin", new DateTime(1990, 1, 1));
-        Console.WriteLine(info.GetGreeting());
 
+        var info = UserProfile.CreateAdmin("Volkan", "Admin", new DateTime(1990, 1, 1));
+        
 
         Console.WriteLine($"User Info: {info.UserName}, Role: {info.Role}, Date of Birth: {info.DateOfBirth}");
+       
+       var (username, role, dateOfBirth) = info;
+        /*public void Deconstruct(out string name, out string role){
+        {
+            name = Username;
+            role = Role;
+        }*/
+
+        
+        Console.WriteLine($"Username: {username}, Role: {role}");
+
         Console.ReadLine();
-   
+
+        
+        
+
         //var admin = UserProfile.CreateAdmin("Bob", new DateTime(1985, 5, 15));
         //Console.WriteLine(admin.GetGreeting());
 
