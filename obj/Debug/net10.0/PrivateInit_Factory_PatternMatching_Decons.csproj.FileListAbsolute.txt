@@ -1,0 +1,14 @@
+C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\bin\Debug\net10.0\PrivateInit_Factory_PatternMatching_Decons.exe
+C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\bin\Debug\net10.0\PrivateInit_Factory_PatternMatching_Decons.deps.json
+C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\bin\Debug\net10.0\PrivateInit_Factory_PatternMatching_Decons.runtimeconfig.json
+C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\bin\Debug\net10.0\PrivateInit_Factory_PatternMatching_Decons.dll
+C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\bin\Debug\net10.0\PrivateInit_Factory_PatternMatching_Decons.pdb
+C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\obj\Debug\net10.0\PrivateInit_Factory_PatternMatching_Decons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\obj\Debug\net10.0\PrivateInit_Factory_PatternMatching_Decons.AssemblyInfoInputs.cache
+C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\obj\Debug\net10.0\PrivateInit_Factory_PatternMatching_Decons.AssemblyInfo.cs
+C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\obj\Debug\net10.0\PrivateInit_Factory_PatternMatching_Decons.csproj.CoreCompileInputs.cache
+C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\obj\Debug\net10.0\PrivateInit_Factory_PatternMatching_Decons.dll
+C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\obj\Debug\net10.0\refint\PrivateInit_Factory_PatternMatching_Decons.dll
+C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\obj\Debug\net10.0\PrivateInit_Factory_PatternMatching_Decons.pdb
+C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\obj\Debug\net10.0\PrivateInit_Factory_PatternMatching_Decons.genruntimeconfig.cache
+C:\Repo\NETCORE\Konsol\PrivateInit_Factory_PatternMatching_Decons\obj\Debug\net10.0\ref\PrivateInit_Factory_PatternMatching_Decons.dll
